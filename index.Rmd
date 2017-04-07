@@ -4,4 +4,4 @@ title: "Linear Regression Models"
 
 This page is a repository of my old lecture notes for P8111 (linear regression models). 
 
-The aim of this course wass to provide training in both the theoretical foundations and the practical use of linear regression models. It wass targeted to MS/MPH and PhD students who have some data analysis experience in applied linear regression. This course was offered in the Spring semester, 2013-2016, through the Biostatistics Department at the Columbia School of Public Health. 
+The aim of this course was to provide training in both the theoretical foundations and the practical use of linear regression models. It was targeted to MS/MPH and PhD students who have some data analysis experience in applied linear regression. This course was offered in the Spring semester, 2013-2016, through the Biostatistics Department at the Columbia School of Public Health. 
