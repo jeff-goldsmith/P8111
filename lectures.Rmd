@@ -1,0 +1,82 @@
+---
+title: "Lecture notes"
+---
+
+#### Lecture 1: Intro to regression and coding
+* Slides [(pdf)](P8111_Lectures/P8111_Lec01.pdf),  R code [(.R)](P8111_Lectures/P8111_Lec01.R),  Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec01_Annotated.pdf), 
+
+#### Lecture 2: Data manipulation in R
+* Slides [(pdf)](P8111_Lectures/P8111_Lec02.pdf),  R code [(.R)](P8111_Lectures/P8111_Lec02.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec02_Annotated.pdf)
+
+#### Lecture 3: ggplot and R Markdown
+* Slides [(pdf)](P8111_Lectures/P8111_Lec03.pdf),R code [(.R)](P8111_Lectures/P8111_Lec03.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec03_Annotated.pdf)
+
+#### Lecture 4: Simple linear regression and least squares properties
+* Slides [(pdf)](P8111_Lectures/P8111_Lec04.pdf), R code [(.R)](P8111_Lectures/P8111_Lec04.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec04_Annotated.pdf)
+
+#### Lecture 5: Simple linear regression; least squares properties; MLR notation
+* Slides [(pdf)](P8111_Lectures/P8111_Lec05.pdf), R code [(.R)](P8111_Lectures/P8111_Lec05.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec05_Annotated.pdf)
+
+#### Lecture 6: Multiple linear regression; interactions; categorical predictors
+* Slides [(pdf)](P8111_Lectures/P8111_Lec06.pdf), R code [(.R)](P8111_Lectures/P8111_Lec06.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec06_Annotated.pdf)
+
+#### Lecture 7: Polynomial and spline models; least squares and properties
+* Slides [(pdf)](P8111_Lectures/P8111_Lec07.pdf), R code [(.R)](P8111_Lectures/P8111_Lec07.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec07_Annotated.pdf)
+
+#### Lecture 8: Identifiability and collinearity; example analysis
+* Slides [(pdf)](P8111_Lectures/P8111_Lec08.pdf), R code [(.R)](P8111_Lectures/P8111_Lec08.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec08_Annotated.pdf)
+
+#### Lecture 9: Inference for MLR, Part 1
+* Slides [(pdf)](P8111_Lectures/P8111_Lec09.pdf), R code [(.R)](P8111_Lectures/P8111_Lec09.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec09_Annotated.pdf)
+
+#### Lecture 10: Inference for MLR, Part 2
+* Slides [(pdf)](P8111_Lectures/P8111_Lec10.pdf), R code [(.R)](P8111_Lectures/P8111_Lec10.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec10_Annotated.pdf)
+
+#### Lecture 11: Resampling methods
+* Slides [(pdf)](P8111_Lectures/P8111_Lec11.pdf), R code [(.R)](P8111_Lectures/P8111_Lec11.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec11_Annotated.pdf)
+
+#### Lecture 12: Gauss-Markov, MLE, regression diagnostics
+* Slides [(pdf)](P8111_Lectures/P8111_Lec12.pdf), R code [(.R)](P8111_Lectures/P8111_Lec12.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec12_Annotated.pdf)
+
+#### Lecture 13: Model Checking
+* Slides [(pdf)](P8111_Lectures/P8111_Lec13.pdf), R code [(.R)](P8111_Lectures/P8111_Lec13.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec13_Annotated.pdf)
+
+#### Lecture 14: Review
+* Slides [(pdf)](P8111_Lectures/P8111_Lec14.pdf)
+
+#### Lecture 15: Model Selection
+* Slides [(pdf)](P8111_Lectures/P8111_Lec15.pdf), R code [(.R)](P8111_Lectures/P8111_Lec15.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec15_Annotated.pdf)
+
+#### Lecture 16: Pelized Regression
+* Slides [(pdf)](P8111_Lectures/P8111_Lec16.pdf), R code [(.R)](P8111_Lectures/P8111_Lec16.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec16_Annotated.pdf)
+
+#### Lecture 17: Splines and Pelized Splines
+* Slides [(pdf)](P8111_Lectures/P8111_Lec17.pdf), R code [(.R)](P8111_Lectures/P8111_Lec17.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec17_Annotated.pdf)
+
+#### Lecture 18: Additive models; case study
+* Slides [(pdf)](P8111_Lectures/P8111_Lec18.pdf), R code [(.R)](P8111_Lectures/P8111_Lec18.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec18_Annotated.pdf)
+
+#### Lecture 19: Weighted and Generalized Least Squares
+* Slides [(pdf)](P8111_Lectures/P8111_Lec19.pdf), R code [(.R)](P8111_Lectures/P8111_Lec19.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec19_Annotated.pdf)
+
+#### Lecture 20: Longitudinal Data Analysis
+* Slides [(pdf)](P8111_Lectures/P8111_Lec20.pdf), R code [(.R)](P8111_Lectures/P8111_Lec20.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec20_Annotated.pdf)
+
+#### Lecture 21: LDA Interpretation, Estimation
+* Slides [(pdf)](P8111_Lectures/P8111_Lec21.pdf), R code [(.R)](P8111_Lectures/P8111_Lec21.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec21_Annotated.pdf)
+
+#### Lecture 22: Random slope models, case studies
+* Slides [(pdf)](P8111_Lectures/P8111_Lec22.pdf), R code [(.R)](P8111_Lectures/P8111_Lec22.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec22_Annotated.pdf)
+
+#### Lecture 23: Multilevel models
+* Slides [(pdf)](P8111_Lectures/P8111_Lec23.pdf), R code [(.R)](P8111_Lectures/P8111_Lec23.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec23_Annotated.pdf)
+
+#### Lecture 24: Measurement error; mediation; confounding
+* Slides [(pdf)](P8111_Lectures/P8111_Lec24.pdf), R code [(.R)](P8111_Lectures/P8111_Lec24.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec24_Annotated.pdf)
+
+#### Lecture 25: Logistic regression
+* Slides [(pdf)](P8111_Lectures/P8111_Lec25.pdf), R code [(.R)](P8111_Lectures/P8111_Lec25.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec25_Annotated.pdf)
+
+#### Lecture 26: Writing Statistical Reports
+* Slides [(pdf)](P8111_Lectures/P8111_Lec26.pdf), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec26_Annotated.pdf)
+

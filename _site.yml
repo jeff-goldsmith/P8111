@@ -1,0 +1,13 @@
+name: "P8111"
+output_dir: "."
+navbar:
+  title: "P8111"
+  left:
+    - text: "Lectures"
+      href: lectures.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/jeff-goldsmith/P8111
+output:
+  html_document:
+    theme: flatly
