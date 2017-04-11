@@ -47,13 +47,13 @@ title: "Lecture notes"
 #### Lecture 15: Model Selection
 * Slides [(pdf)](P8111_Lectures/P8111_Lec15.pdf), R code [(.R)](P8111_Lectures/P8111_Lec15.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec15_Annotated.pdf)
 
-#### Lecture 16: Pelized Regression
+#### Lecture 16: Penalized Regression
 * Slides [(pdf)](P8111_Lectures/P8111_Lec16.pdf), R code [(.R)](P8111_Lectures/P8111_Lec16.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec16_Annotated.pdf)
 
-#### Lecture 17: Splines and Pelized Splines
+#### Lecture 17: Splines and Penalized Splines
 * Slides [(pdf)](P8111_Lectures/P8111_Lec17.pdf), R code [(.R)](P8111_Lectures/P8111_Lec17.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec17_Annotated.pdf)
 
-#### Lecture 18: Additive models; case study
+#### Lecture 18: Additive Models; Case study
 * Slides [(pdf)](P8111_Lectures/P8111_Lec18.pdf), R code [(.R)](P8111_Lectures/P8111_Lec18.R), Annotated Slides [(pdf)](P8111_Lectures/P8111_Lec18_Annotated.pdf)
 
 #### Lecture 19: Weighted and Generalized Least Squares
